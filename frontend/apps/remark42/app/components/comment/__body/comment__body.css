@@ -1,0 +1,13 @@
+.comment__body {
+  padding-left: 17px;
+}
+
+.comment__body h1 {
+  font-size: 18px;
+  color: #142326;
+}
+
+.comment__body p {
+  color: #3a4649;
+  font-size: 14px;
+}

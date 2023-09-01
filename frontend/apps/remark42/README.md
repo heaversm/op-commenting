@@ -1,0 +1,1 @@
+../../../site/src/docs/contributing/frontend/index.md
